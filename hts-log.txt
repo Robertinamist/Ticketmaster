@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Oct 2022 17:36:50 at ticketmaster-we.herokuapp.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" ticketmaster-we.herokuapp.com -O1 "C:\My Web Sites\Ticket" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:37:00	Error: 	"Not Found" (404) at link ticketmaster-we.herokuapp.com/static/images/android-launchericon-144-144.png (from ticketmaster-we.herokuapp.com/)
+17:37:00	Error: 	"Not Found" (404) at link ticketmaster-we.herokuapp.com/static/manifest2.json (from ticketmaster-we.herokuapp.com/)
+17:37:00	Error: 	"Not Found" (404) at link ticketmaster-we.herokuapp.com/static/favicon.ico (from ticketmaster-we.herokuapp.com/)
+17:37:19	Error: 	"Not Found" (404) at link ticketmaster-we.herokuapp.com/3 (from ticketmaster-we.herokuapp.com/harry.html)
+17:37:19	Error: 	"Not Found" (404) at link ticketmaster-we.herokuapp.com/3.html (from ticketmaster-we.herokuapp.com/yankee.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 25 links scanned, 19 files written (1630969 bytes overall) [1606357 bytes received at 53545 bytes/sec], 55026 bytes transferred using HTTP compression in 1 files, ratio 34%, 2.5 requests per connection
+(5 errors, 0 warnings, 0 messages)
